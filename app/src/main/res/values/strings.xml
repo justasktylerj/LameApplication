@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">LameApplication</string>
+
+    <string name="colorChange">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_food">FoodActivity</string>
+    <string name="swapButtonText">The other Screen</string>
+
+
+</resources>
